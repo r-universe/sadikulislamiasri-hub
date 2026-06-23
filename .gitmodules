@@ -1,5 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "CREDS"]
+	path = CREDS
+	url = https://github.com/cran/CREDS
+[submodule "NRMSampling"]
+	path = NRMSampling
+	url = https://github.com/cran/NRMSampling
+[submodule "NRMstatsML"]
+	path = NRMstatsML
+	url = https://github.com/cran/NRMstatsML
+[submodule "SQIpro"]
+	path = SQIpro
+	url = https://github.com/cran/SQIpro
+[submodule "agriDQ"]
+	path = agriDQ
+	url = https://github.com/cran/agriDQ
+[submodule "agriReg"]
+	path = agriReg
+	url = https://github.com/cran/agriReg
+[submodule "climatestatsr"]
+	path = climatestatsr
+	url = https://github.com/cran/climatestatsr
+[submodule "ensembleML"]
+	path = ensembleML
+	url = https://github.com/cran/ensembleML
+[submodule "llmclean"]
+	path = llmclean
+	url = https://github.com/cran/llmclean
+[submodule "rainerosr"]
+	path = rainerosr
+	url = https://github.com/cran/rainerosr
+[submodule "soiltillr"]
+	path = soiltillr
+	url = https://github.com/cran/soiltillr
+[submodule "swcEcon"]
+	path = swcEcon
+	url = https://github.com/cran/swcEcon
