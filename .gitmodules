@@ -29,6 +29,9 @@
 [submodule "llmclean"]
 	path = llmclean
 	url = https://github.com/cran/llmclean
+[submodule "llmimpute"]
+	path = llmimpute
+	url = https://github.com/cran/llmimpute
 [submodule "rainerosr"]
 	path = rainerosr
 	url = https://github.com/cran/rainerosr
