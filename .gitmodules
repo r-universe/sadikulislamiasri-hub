@@ -41,3 +41,6 @@
 [submodule "swcEcon"]
 	path = swcEcon
 	url = https://github.com/cran/swcEcon
+[submodule "xaiHydro"]
+	path = xaiHydro
+	url = https://github.com/cran/xaiHydro
